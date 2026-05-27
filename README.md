@@ -63,6 +63,9 @@ Real-time apps (chat, video, etc.)
 Supports:
 
 OAuth2
+
+
+now improvibg something into this serirs s
 JWT tokens
 API keys
 
