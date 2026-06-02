@@ -77,6 +77,9 @@ Works well with:
 
 Frontend (React, HTML, CSS)
 Databases (MySQL, PostgreSQL, MongoDB)
+
+
+connecting db with fast api is tough for me 
 Cloud (AWS, Docker)
 
 👉 YES — your earlier question:
