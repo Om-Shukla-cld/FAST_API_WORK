@@ -12,7 +12,7 @@ Microservices
 Cloud-based apps (perfect for your AWS goals 👀)
 ⚡ Why FastAPI is so popular
 1. 🚄 Extremely Fast
-One of the fastest Python frameworks
+One of the fastest Python frameworks.
 Built on Starlette + Pydantic
 Comparable to Node.js performance
 
