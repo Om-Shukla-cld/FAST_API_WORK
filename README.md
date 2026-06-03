@@ -86,3 +86,7 @@ Cloud (AWS, Docker)
 ✔ FastAPI easily connects with HTML/CSS frontend
 
 time to insert some files
+
+
+
+DB_URL = f"mysql+mysqlconnector://{fastapi}:{Admin@123}@localhost:3306/fast_api_tut" very usefull line for db connectivity
